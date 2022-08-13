@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kunal Singh</title>
+    <link>https://blog.kunalsin9h.dev/</link>
+    <description>Recent content on Kunal Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Aug 2022 16:22:25 +0530</lastBuildDate><atom:link href="https://blog.kunalsin9h.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make your first Pull-Request on Github</title>
+      <link>https://blog.kunalsin9h.dev/posts/my-first-pr/</link>
+      <pubDate>Sat, 13 Aug 2022 16:22:25 +0530</pubDate>
+      
+      <guid>https://blog.kunalsin9h.dev/posts/my-first-pr/</guid>
+      <description>A step-by-step guide to getting started with open source development.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
